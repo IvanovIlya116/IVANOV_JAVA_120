@@ -1,0 +1,5 @@
+class Ptogram
+public static void main (String [] args) {
+int a=135
+int b=a/128
+int c=a-128
